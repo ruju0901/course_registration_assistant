@@ -123,10 +123,7 @@ The system is divided into three major pipelines:
 ---
 
 ## **Contributors**
-- [Goutham Yadavalli](mailto:yadavalli.s@northeastern.edu)
-- [Gibran Myageri](mailto:myageri.g@northeastern.edu)
-- [Mihir Athale](mailto:athale.m@northeastern.edu)
-- [Rushikesh Ghatage](mailto:ghatage.r@northeastern.edu)
-- [Kishore Sampath](mailto:kishore.sampath@neu.edu)
+- [Ruju Shah](mailto:shah.ruju@northeastern.edu)
+
 
 For questions or issues, please contact the contributors or raise an issue in the repository.
